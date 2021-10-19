@@ -29,7 +29,8 @@ If you use the raw datasets, please cite appropriate sources.
 <h3>Links to Attributed Graph</h3>
 Please cite our paper if you use any of the following attributed graphs.
 
-The current version of the OAG attributed graph contains 1 million nodes (authors). The keywords are replaced by unique identifiers in the dataset. If we want to map the identifiers back to the original keywords, please visit <a href="https://drive.google.com/file/d/1nPeHSTvM8jqhLb1t-7PPqokNllvI_0Dz/view?usp=sharing">this link</a>.
+The current version of the OAG attributed graph contains 1 million nodes (authors). The keywords are replaced by unique identifiers in the dataset. If we want to map the identifiers back to the original keywords, please visit <a href="https://drive.google.com/file/d/1nPeHSTvM8jqhLb1t-7PPqokNllvI_0Dz/view?usp=sharing">this link</a>. The keyword mapping is in the following format: <body style="background-color:powderblue;">
+{"neuropeptide": 1, "genetics": 2, "bioinformatics": 3, "mathematical model": 4, "spectrum": 5, "kinetics": 6} </body>
 
 <ul>
   <li>
@@ -44,5 +45,3 @@ The current version of the OAG attributed graph contains 1 million nodes (author
     Gowalla: https://drive.google.com/file/d/16PsulYlA9wCjjDphTpslq8Yqgz51b5Lo/view?usp=sharing
   </li>
 </ul>
-
-Attributed graphs are publicly available at https://drive.google.com/drive/folders/1yU32kH6E2xvQow8hxCbCtMoFASDVn4TE?usp=sharing.
