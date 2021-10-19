@@ -45,18 +45,4 @@ The current version of the OAG attributed graph contains 1 million nodes (author
   </li>
 </ul>
 
-<ul>
-    <li>
-      OAG: https://drive.google.com/file/d/1ajEFzWMjQZAukMHv8aJ8UAN7otvEW7lp/view?usp=sharing
-    </li>
-  
-    <li>
-      Twitter: https://drive.google.com/file/d/1XTCubozlB2TTHkdruW7Na7iyFdS7-GVP/view?usp=sharing
-    </li>
-  
-    <li>
-      Gowalla: https://drive.google.com/file/d/16PsulYlA9wCjjDphTpslq8Yqgz51b5Lo/view?usp=sharing
-    </li>
-</ul>
-
 Attributed graphs are publicly available at https://drive.google.com/drive/folders/1yU32kH6E2xvQow8hxCbCtMoFASDVn4TE?usp=sharing.
