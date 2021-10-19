@@ -27,7 +27,6 @@ If you use the raw datasets, please cite appropriate sources.
 </ul>
 
 <h3>Links to Attributed Graph</h3>
-Please cite our paper if you use any of the following attributed graphs.
 
 <ul>
   <li>
@@ -51,3 +50,12 @@ The keywords are replaced by unique identifiers in the dataset. If we want to ma
 </body>
 
 The authors are also replaced by unique identifiers. The mapping from id to author names can be found <a href="https://drive.google.com/file/d/1kgeMogx-mmdkJrsyNcb6h1wa2g7E-JNJ/view?usp=sharing">here</a>.
+
+**Please cite our paper if you use any of the following attributed graphs.**
+
+@article{islam2019keyword,
+  title={Keyword aware influential community search in large attributed graphs},
+  author={Islam, Md and Ali, Mohammed Eunus and Kang, Yong-Bin and Sellis, Timos and Choudhury, Farhana M and others},
+  journal={arXiv preprint arXiv:1912.02114},
+  year={2019}
+}
