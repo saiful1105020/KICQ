@@ -41,7 +41,7 @@ The current version of the OAG attributed graph contains 1 million nodes (author
   </li>
   
   <li>
-    Gowalla: http://www.yongliu.org/datasets/index.html
+    Gowalla: https://drive.google.com/file/d/16PsulYlA9wCjjDphTpslq8Yqgz51b5Lo/view?usp=sharing
   </li>
 </ul>
 
