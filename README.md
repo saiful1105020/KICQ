@@ -11,9 +11,18 @@ We use three large real datasets: OAG (Open Academic Graph), Twitter and Gowalla
 In **Gowalla** dataset, users are modeled as vertices, and the location ids are considered as keywords. Edges represent the friendship between two users. Each user is augmented with the locations where she checked in. The influence score of a user at a location is modeled as the user’s percentile rank considering the number of check-ins posted by the user at that location. There are 407,533 vertices, 2, 209, 169 edges, and 2, 727, 464 keywords in this attributed graph.
 
 <h3>Links to Raw Dataset</h3>
+If you use the raw datasets, please cite appropriate sources.
 <ul>
   <li>
     OAG: https://aminer.org/open-academic-graph
+  </li>
+  
+  <li>
+    Twitter: Raw dataset cannot be shared publicly due to Twitter’s privacy policy. Please contact the authors if needed.
+  </li>
+  
+  <li>
+    Gowalla: http://www.yongliu.org/datasets/index.html
   </li>
 </ul>
 
