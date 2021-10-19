@@ -37,7 +37,7 @@ The current version of the OAG attributed graph contains 1 million nodes (author
   </li>
   
   <li>
-    Twitter: Raw dataset cannot be shared publicly due to Twitter’s privacy policy. Please contact the authors if needed.
+    Twitter: https://drive.google.com/file/d/1XTCubozlB2TTHkdruW7Na7iyFdS7-GVP/view?usp=sharing
   </li>
   
   <li>
