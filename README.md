@@ -33,7 +33,7 @@ The current version of the OAG attributed graph contains 1 million nodes (author
 
 <ul>
   <li>
-    OAG: https://aminer.org/open-academic-graph
+    OAG: https://drive.google.com/file/d/1ajEFzWMjQZAukMHv8aJ8UAN7otvEW7lp/view?usp=sharing
   </li>
   
   <li>
