@@ -53,6 +53,8 @@ The authors are also replaced by unique identifiers. The mapping from id to auth
 
 **Please cite our paper if you use any of the following attributed graphs.**
 
+<a href="https://arxiv.org/pdf/1912.02114.pdf">Keyword Aware Influential Community Search in Large Attributed Graphs</a>
+
 @article{islam2019keyword,
   title={Keyword aware influential community search in large attributed graphs},
   author={Islam, Md and Ali, Mohammed Eunus and Kang, Yong-Bin and Sellis, Timos and Choudhury, Farhana M and others},
