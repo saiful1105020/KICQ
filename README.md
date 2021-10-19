@@ -26,4 +26,12 @@ If you use the raw datasets, please cite appropriate sources.
   </li>
 </ul>
 
+<h3>Links to Attributed Graph</h3>
+Please cite our paper if you use any of the following attributed graphs.
+
+<ul>
+    <li>
+      Gowalla: https://drive.google.com/file/d/16PsulYlA9wCjjDphTpslq8Yqgz51b5Lo/view?usp=sharing
+    </li>
+</ul>
 Attributed graphs are publicly available at https://drive.google.com/drive/folders/1yU32kH6E2xvQow8hxCbCtMoFASDVn4TE?usp=sharing.
