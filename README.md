@@ -26,4 +26,4 @@ If you use the raw datasets, please cite appropriate sources.
   </li>
 </ul>
 
-Attributed graphs are publicly available at https://drive.google.com/ drive/folders/1yU32kH6E2xvQow8hxCbCtMoFASDVn4TE?usp=sharing.
+Attributed graphs are publicly available at https://drive.google.com/drive/folders/1yU32kH6E2xvQow8hxCbCtMoFASDVn4TE?usp=sharing.
