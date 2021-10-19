@@ -29,8 +29,6 @@ If you use the raw datasets, please cite appropriate sources.
 <h3>Links to Attributed Graph</h3>
 Please cite our paper if you use any of the following attributed graphs.
 
-The current version of the OAG attributed graph contains 1 million nodes (authors). The keywords are replaced by unique identifiers in the dataset. If we want to map the identifiers back to the original keywords, please visit <a href="https://drive.google.com/file/d/1nPeHSTvM8jqhLb1t-7PPqokNllvI_0Dz/view?usp=sharing">this link</a>.
-
 <ul>
     <li>
       OAG: https://drive.google.com/file/d/1ajEFzWMjQZAukMHv8aJ8UAN7otvEW7lp/view?usp=sharing
