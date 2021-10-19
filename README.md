@@ -53,14 +53,9 @@ The authors are also replaced by unique identifiers. The mapping from id to auth
 
 **Please cite our paper if you use any of the following attributed graphs.**
 
-<a href="https://arxiv.org/pdf/1912.02114.pdf">Keyword Aware Influential Community Search in Large Attributed Graphs</a>
+<a href="https://doi.org/10.1016%2Fj.is.2021.101914">Keyword Aware Influential Community Search in Large Attributed Graphs</a>
 
-@article{islam2019keyword,
-  title={Keyword aware influential community search in large attributed graphs},
-  author={Islam, Md and Ali, Mohammed Eunus and Kang, Yong-Bin and Sellis, Timos and Choudhury, Farhana M and others},
-  journal={arXiv preprint arXiv:1912.02114},
-  year={2019}
-}
+@article{Islam_2021, doi = {10.1016/j.is.2021.101914}, url = {https://doi.org/10.1016%2Fj.is.2021.101914}, year = 2021, month = {oct}, publisher = {Elsevier {BV}}, pages = {101914}, author = {Md. Saiful Islam and Mohammed Eunus Ali and Yong-Bin Kang and Timos Sellis and Farhana M. Choudhury and Shamik Roy}, title = {Keyword aware influential community search in large attributed graphs}, journal = {Information Systems} }
 
 
 <h3> Query Generation </h3>
