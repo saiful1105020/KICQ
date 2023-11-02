@@ -56,15 +56,16 @@ The authors are also replaced by unique identifiers. The mapping from id to auth
 <a href="https://doi.org/10.1016%2Fj.is.2021.101914">Keyword Aware Influential Community Search in Large Attributed Graphs</a>
 
 ```
-@article{Islam_2021, 
+@article{islam2022keyword,
+  title={Keyword aware influential community search in large attributed graphs},
+  author={Islam, Md Saiful and Ali, Mohammed Eunus and Kang, Yong-Bin and Sellis, Timos and Choudhury, Farhana M and Roy, Shamik},
+  journal={Information Systems},
+  volume={104},
+  pages={101914},
+  year={2022},
   doi = {10.1016/j.is.2021.101914}, 
-  url = {https://doi.org/10.1016%2Fj.is.2021.101914}, 
-  year = 2021, month = {oct}, 
-  publisher = {Elsevier {BV}}, 
-  pages = {101914}, 
-  author = {Md. Saiful Islam and Mohammed Eunus Ali and Yong-Bin Kang and Timos Sellis and Farhana M. Choudhury and Shamik Roy}, 
-  title = {Keyword aware influential community search in large attributed graphs}, 
-  journal = {Information Systems}
+  url = {https://doi.org/10.1016%2Fj.is.2021.101914},
+  publisher={Elsevier}
 }
 ```
 
