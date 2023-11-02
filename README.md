@@ -38,7 +38,7 @@ If you use the raw datasets, please cite appropriate sources.
   </li>
   
   <li>
-    Gowalla: https://drive.google.com/file/d/16PsulYlA9wCjjDphTpslq8Yqgz51b5Lo/view?usp=sharing
+    Gowalla: https://rochester.box.com/s/8qdhx6tueuyuhkc0l440in6u8gkqoso6
   </li>
 </ul>
 
