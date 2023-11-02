@@ -30,11 +30,11 @@ If you use the raw datasets, please cite appropriate sources.
 
 <ul>
   <li>
-    OAG: https://drive.google.com/file/d/1ajEFzWMjQZAukMHv8aJ8UAN7otvEW7lp/view?usp=sharing
+    OAG: https://rochester.box.com/s/tc9rj6411wgq77pivt0v4jy8spsp4s5e
   </li>
   
   <li>
-    Twitter: https://drive.google.com/file/d/1XTCubozlB2TTHkdruW7Na7iyFdS7-GVP/view?usp=sharing
+    Twitter: https://rochester.box.com/s/b4k9iqy3mnnmf728xh8dgtts8b1icyky
   </li>
   
   <li>
