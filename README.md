@@ -49,7 +49,7 @@ The keywords are replaced by unique identifiers in the dataset. If we want to ma
 <h6>{"neuropeptide": 1, "genetics": 2, "bioinformatics": 3, "mathematical model": 4, "spectrum": 5, "kinetics": 6}</h6> 
 </body>
 
-The authors are also replaced by unique identifiers. The mapping from id to author names can be found <a href="https://rochester.box.com/shared/static/4c6h438mbwz1qwskvoi5ed4l7luopzro.txt">here</a>.
+The authors are also replaced by unique identifiers. The mapping from id to author names can be found <a href="https://rochester.box.com/s/4c6h438mbwz1qwskvoi5ed4l7luopzro">here</a>.
 
 **Please cite our paper if you use any of the attributed graphs.**
 
