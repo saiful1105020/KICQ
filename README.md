@@ -44,12 +44,12 @@ If you use the raw datasets, please cite appropriate sources.
 
 The current version of the OAG attributed graph contains 1 million nodes (authors). We wil soon publish the extended version of the OAG attributed graph containing 5 million nodes. 
 
-The keywords are replaced by unique identifiers in the dataset. If we want to map the identifiers back to the original keywords, please visit <a href="https://drive.google.com/file/d/1nPeHSTvM8jqhLb1t-7PPqokNllvI_0Dz/view?usp=sharing">this link</a>. The keyword mapping is in the following format: 
+The keywords are replaced by unique identifiers in the dataset. If we want to map the identifiers back to the original keywords, please visit <a href="https://rochester.box.com/s/9ivtp6f5qpx3v5bdrsqf1xlby3sdh7wl">this link</a>. The keyword mapping is in the following format: 
 <body style="background-color:powderblue;">
 <h6>{"neuropeptide": 1, "genetics": 2, "bioinformatics": 3, "mathematical model": 4, "spectrum": 5, "kinetics": 6}</h6> 
 </body>
 
-The authors are also replaced by unique identifiers. The mapping from id to author names can be found <a href="https://drive.google.com/file/d/1kgeMogx-mmdkJrsyNcb6h1wa2g7E-JNJ/view?usp=sharing">here</a>.
+The authors are also replaced by unique identifiers. The mapping from id to author names can be found <a href="https://rochester.box.com/shared/static/4c6h438mbwz1qwskvoi5ed4l7luopzro.txt">here</a>.
 
 **Please cite our paper if you use any of the attributed graphs.**
 
