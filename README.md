@@ -42,6 +42,7 @@ If you use the raw datasets, please cite appropriate sources.
   </li>
 </ul>
 
+**Additional Info on the OAG attributed graph:**
 The keywords are replaced by unique identifiers in the dataset. If we want to map the identifiers back to the original keywords, please visit <a href="https://rochester.box.com/s/9ivtp6f5qpx3v5bdrsqf1xlby3sdh7wl">this link</a>. The keyword mapping is in the following format: 
 <body style="background-color:powderblue;">
 <h6>{"neuropeptide": 1, "genetics": 2, "bioinformatics": 3, "mathematical model": 4, "spectrum": 5, "kinetics": 6}</h6> 
